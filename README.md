@@ -1,6 +1,8 @@
 # <p align="center">🏆Scaler-30-Days-of-JavaScript🏆</p>
 
-This repository contains all the codes of 30 Days of Javascript Challenge from Day 1 to Day 30 by Scaler Community.
+This repository contains all the codes of the 30 Days of Javascript 2023 Challenge from Day 1 to Day 30 by Scaler Community.
+
+![30 Days of JavaScript](https://github.com/Rakesh9100/Scaler-30-Days-of-JavaScript/assets/73993775/8e7c8acc-81e0-40ef-9a09-726c3d6c4e44)
 
 ### Completion Certificate:-
 
